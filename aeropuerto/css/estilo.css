@@ -1,0 +1,10 @@
+.buscar_vuelo{
+    border: 3px solid black;
+    margin:18px;
+    background-color: aquamarine;
+}
+.caja_form{
+    border: 3px solid black;
+    background-color: rgb(243, 50, 50);
+    width: 80%;
+}
